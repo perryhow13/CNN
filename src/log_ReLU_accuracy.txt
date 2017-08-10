@@ -1,0 +1,4 @@
+Learning rate: 7e-05
+The size of training set:60000
+The size of testing set :10000
+Epoch: 10
